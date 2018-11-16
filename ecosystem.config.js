@@ -8,7 +8,7 @@ module.exports = {
     // First application
     {
       name      : 'seo-test',
-      script    : '/bin/www',
+      script    : 'bin/www',
       instances: 0,
       env_prd: {
         NODE_ENV: 'prd',
